@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+![ruby-on-rails-with-postgres](https://user-images.githubusercontent.com/60598274/107333809-0469a280-6ac7-11eb-88ec-324ca323b190.jpeg)
